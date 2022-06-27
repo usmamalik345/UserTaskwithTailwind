@@ -1,0 +1,30 @@
+.footer-icon{  
+    fill: #10B981; 
+    font-size: 20px;  
+}
+
+.footer-link{
+    font-family: 'Lato';
+    font-style: normal;
+    color: #10B981;
+    
+}
+
+.footer_row{
+    border-top: 1px solid #F5F5F5;
+    
+}
+.footer_link{
+    font-family: 'Lato';
+    font-style: normal;
+   
+}
+
+
+/* .svg_inline{
+    display: inline;
+} */
+
+.can_view{
+    color: #10B981;
+}

@@ -1,0 +1,33 @@
+.header{
+    border-bottom: 2px solid #F5F5F5;
+    
+}
+
+
+.users{
+    font-style: normal;
+    font-family: 'Oswald', sans-serif;
+}
+
+.user-input{
+    padding: 6px 10px;
+}
+
+
+.input{
+    padding:  6px, 10px, 6px, 10px;
+    background: #FFFFFF;   
+}
+
+.user-btn{    
+background: #F1F1F1;    
+}
+
+.butn{
+    font-family: 'Lato';
+    font-style: normal;
+    color: #BCBCBC;
+    
+
+}
+

@@ -1,0 +1,22 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.main_app{
+    width: 550px;
+    height: 500px;
+    background: #FFFFFF;
+    box-shadow: 0.260636px 6.99515px 11px rgba(0, 0, 0, 0.08), 0.153463px 4.11874px 5.7376px rgba(0, 0, 0, 0.057856), 0.0316934px 0.85061px 1.1792px rgba(0, 0, 0, 0.035072);
+    border-radius: 6px;
+    
+}
+
+@media screen and (max-width: 550px) {
+    .App{
+        width: auto;
+    }
+  }
